@@ -28,3 +28,5 @@
 	查看标签记录
 15、git tag tagName
 	新建标签
+16、git checkout tagName
+	切换版本代码
