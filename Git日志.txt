@@ -1,0 +1,6 @@
+1、git
+	验证安装成功与否
+2、git status
+	git 仓库状态
+3、git init
+	初始化 git 仓库
