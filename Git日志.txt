@@ -24,4 +24,7 @@
 	删除分支（如果有未合并代码，则删除失败）
 13、git branch -D branchName
 	强制删除分支
-14、
+14、git tag 
+	查看标签记录
+15、git tag tagName
+	新建标签
