@@ -4,3 +4,14 @@
 	git 仓库状态
 3、git init
 	初始化 git 仓库
+4、git add fileName
+	将文件添加到缓存区
+5、git commit -m 'message'
+	提交缓存区中的数据至本地仓库，其中 message 为提交信息
+6、git log
+	打印提交日志
+7、git branch
+	查看当前分支状况
+8、git branch branchName
+	新建分支
+9、
